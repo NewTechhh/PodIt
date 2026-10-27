@@ -65,31 +65,6 @@ This repository contains the **landing page** that introduces the project. The a
     └── preview.png       # Screenshot used in this README
 ```
 
-## Run locally
-
-No installation or build step is needed. Download or clone the repository, then open `index.html` in your browser.
-
-```bash
-git clone https://github.com/NewTechhh/podit.git
-cd podit
-# open index.html in your browser
-```
-
-The page loads two fonts (Manrope and Sora) from Google Fonts and falls back to system fonts when offline.
-
-## Deploy
-
-**GitHub Pages**
-
-1. Go to **Settings → Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select the `main` branch and the `/ (root)` folder, then save.
-4. After a minute, the site is live at `https://newtechhh.github.io/podit/`.
-
-**Cloudflare Pages**
-
-Connect this repository, leave the build command empty, and set the output directory to `/`.
-
 ## Contact
 
 **Abdelmawla Omara**, founder
